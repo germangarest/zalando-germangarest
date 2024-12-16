@@ -2,6 +2,10 @@
 
 Esta aplicación web, desarrollada con Streamlit, permite clasificar prendas de vestir utilizando un modelo de deep learning entrenado con el dataset Fashion MNIST.
 
+https://zalando-germangarest.streamlit.app/
+
+![Zalando][img/Zalando.jpg]
+
 ## Características
 
 - Interfaz web intuitiva desarrollada con Streamlit
