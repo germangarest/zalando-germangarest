@@ -4,7 +4,7 @@ Esta aplicación web, desarrollada con Streamlit, permite clasificar prendas de 
 
 https://zalando-germangarest.streamlit.app/
 
-![Zalando][img/Zalando.jpg]
+![Zalando](img/Zalando.jpg)
 
 ## Características
 
